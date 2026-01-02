@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Qdrant Vector DB (사이즈가 큼, 각 환경에서 생성)
+local_qdrant_db/
+
+# Logs
+*.log
+logs/
+app.log
+nohup.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Model cache (HuggingFace)
+models/
+.cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
