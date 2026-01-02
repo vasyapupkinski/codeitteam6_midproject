@@ -241,10 +241,10 @@ MIT License
 
 코드잇 AI 중급 프로젝트 6팀
 - 이승완(팀장) https://foremost-andesaurus-a63.notion.site/2c6bfba1db0b80a39e83e4d2bc2c1a17?source=copy_link
-- 김모건 
+- 김모건 https://www.notion.so/_-_-2c4068e43a16802d9ae1fb419238aaac?source=copy_link
 - 윤재형 
-- 김승우
+- 김승우 
 
-최종 보고서
-[중급 프로젝트 보고서 다운로드](./report/codeitteam6_6팀_중급_프로젝트_보고서.pdf)
-
+최종 보고서(총 2개)
+[중급 프로젝트 보고서 1 다운로드](./report/codeitteam6_6팀_중급_프로젝트_보고서.pdf)
+[중급 프로젝트 보고서 2] https://drive.google.com/file/d/1gTR_FCoPaGEcgIRNLEGInhcqEyrqnW2Y/view?usp=drive_link
