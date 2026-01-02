@@ -160,7 +160,6 @@
 │
 ├── 시나리오 B 완성된 쥬피터 파일들/  # 노트북 원본
 │
-├── .env.example              # 환경 변수 템플릿
 ├── .gitignore                # Git 제외 파일 목록
 ├── app_simple.py             # 단순 Gradio UI (Agent 미사용)
 ├── dependencies.py           # 공통 의존성 임포트
