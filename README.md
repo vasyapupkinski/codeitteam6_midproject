@@ -246,5 +246,5 @@ MIT License
 - 김승우 
 
 최종 보고서(총 2개)
-[중급 프로젝트 보고서 1 다운로드](./report/codeitteam6_6팀_중급_프로젝트_보고서.pdf)
-[중급 프로젝트 보고서 2] https://drive.google.com/file/d/1gTR_FCoPaGEcgIRNLEGInhcqEyrqnW2Y/view?usp=drive_link
+- [중급 프로젝트 보고서 1 다운로드](./report/codeitteam6_6팀_중급_프로젝트_보고서.pdf)
+- [중급 프로젝트 보고서 2] https://drive.google.com/file/d/1gTR_FCoPaGEcgIRNLEGInhcqEyrqnW2Y/view?usp=drive_link
