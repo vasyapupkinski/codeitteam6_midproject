@@ -239,7 +239,9 @@ MIT License
 
 ## 개발팀
 
-코드잇 AI 중급 프로젝트 6팀
+코드잇 6팀
+
+코드잇 AI 중급 프로젝트 6팀 협업일지
 - 이승완(팀장) https://foremost-andesaurus-a63.notion.site/2c6bfba1db0b80a39e83e4d2bc2c1a17?source=copy_link
 - 김모건 https://www.notion.so/_-_-2c4068e43a16802d9ae1fb419238aaac?source=copy_link
 - 윤재형 
