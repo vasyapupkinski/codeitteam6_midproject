@@ -245,7 +245,7 @@ MIT License
 - 이승완(팀장) https://foremost-andesaurus-a63.notion.site/2c6bfba1db0b80a39e83e4d2bc2c1a17?source=copy_link
 - 김모건 https://peach-antimatter-e36.notion.site/_-_-2c4068e43a16802d9ae1fb419238aaac?source=copy_link
 - 윤재형 https://www.notion.so/251211-2c68892abe41814883d2eb097b135239?source=copy_link
-- 김승우 
+- 김승우 https://www.notion.so/Daily-12-12-2de289f7446a811f9128c34daf5e3be3
 
 최종 보고서(총 2개)
 - [중급 프로젝트 보고서 1 다운로드](./report/codeitteam6_6팀_중급_프로젝트_보고서.pdf)
